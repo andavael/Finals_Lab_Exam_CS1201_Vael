@@ -1,0 +1,5 @@
+anda, 12345678
+tina, tinatina
+yana, akosiyana
+gwen, akosinewg
+chin, chinchin
